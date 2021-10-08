@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **M Wildan Fadhilah**.\
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Backend** di [Dicoding](https://www.dicoding.com/).\
 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
 
