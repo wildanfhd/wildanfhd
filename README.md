@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **M Wildan Fadhilah**.
 
-Saya seorang **Mahasiswa** di [Universitas Pembangunan Jaya].
+Saya seorang **Mahasiswa** di **Universitas Pembangunan Jaya**.
 
 
 <p align="left">
