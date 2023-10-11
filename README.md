@@ -4,7 +4,7 @@ Perkenalkan nama saya **Muhammad Wildan Fadhilah**.
 
 Saya seorang **Mahasiswa** di **Universitas Pembangunan Jaya**.
 
-Currently taking an internship at **Nakama.id** since Maret
+Currently taking an internship at **PT Siaga Abdi Utama** as Junior Fullstack Developer
 
 
 <p align="left">
