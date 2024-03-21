@@ -19,7 +19,8 @@ Currently taking an internship at **PT Siaga Abdi Utama** as Junior Fullstack We
 
 ### Tools
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
-  
+  <br></br>
+  <br></br>
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
