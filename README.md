@@ -23,7 +23,6 @@ Currently taking an internship at **PT Siaga Abdi Utama** as Junior Fullstack We
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
   <a href="https://twitter.com/wildeone_f" target="_blank">
-    <img alt="X (Formerly Twitter)" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fwildeone_f
-" />
+    <img alt="X (Formerly Twitter)" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a> 
 </p>
