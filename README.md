@@ -4,7 +4,7 @@ Perkenalkan nama saya **Muhammad Wildan Fadhilah**.
 
 Saya seorang **Mahasiswa** di **Universitas Pembangunan Jaya**.
 
-Currently taking an internship at **PT Siaga Abdi Utama** as Junior Fullstack Developer
+Currently taking an internship at **PT Siaga Abdi Utama** as Junior Fullstack Web Developer.
 
 
 <p align="left">
